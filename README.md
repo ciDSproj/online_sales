@@ -15,7 +15,7 @@ The goal of this project is the analysis of the global online sales transactions
 - Matplotlib and Seaborn libraries for data visualization
 
 ## Dataset
-The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data). Each entry contains information about a single transaction:
+The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data). The dataset contains 240 observations and 9 attributes. Each entry contains information about a single transaction:
 
 - Transaction ID: Unique identifier for each sales order.
 - Date: Date of the sales transaction.
