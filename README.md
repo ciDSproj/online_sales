@@ -94,7 +94,7 @@ The heatmap below shows that the **highest sales volume** comes from **Electroni
 
 ### What is the distribution of Payment Methods?
 
-The **highest revenue** comes from using **Credit Cards (50%)**, followed by **PayPal(33.3%)** and Debit Card (16.7%). 
+The **highest revenue** comes from using **Credit Cards (50%)**, followed by **PayPal(33.3%)** and **Debit Card (16.7%)**. 
 
 ![Payment Methods](da1_pay_method.png)
 <br/>
