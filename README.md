@@ -32,7 +32,8 @@ The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datas
 - Retrieve data from the SQLite database into a Pandas data frame
 - Convert Date to datetime
 - Made a new column for Month
-      - Aggregate Total Revenue by:
+- Aggregate Total Revenue by:
+  
       - Date to see the overall sales trend for the entire period
       - Month to obtain the seasonal monthly trend on sales
       - Product Category to find the product categories with the highest sales
