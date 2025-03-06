@@ -102,7 +102,8 @@ It can be observed that the **highest revenue** comes from using **Credit Cards 
 
 The **most used payment method** in **North America** is **Credit Card**, followed by **Europe** where is **mostly** used **PayPal**. **Asia** is the only region where are used **two payment methods, Credit and Debit Cards**.
 
-
+![Payment by Region](da1_pay_region.png)
+<br/>
 
 
 
