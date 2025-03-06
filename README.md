@@ -10,7 +10,7 @@ The goal of this project is the analysis of the global online sales transactions
 - Created pivot table of Sales by Region to find which are the most popular product categories in each region
 
 ### Dataset
-The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data) and provides an overview of global online sales transactions across different product categories.  Each entry contains information about a single transaction made between January and August 2024:
+The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data).  Each entry contains information about a single transaction:
 
 - Transaction ID: Unique identifier for each sales order.
 - Date: Date of the sales transaction.
