@@ -8,15 +8,11 @@ The goal of this project is the analysis of the global online sales transactions
 - Grouped Sales by Payment Methods to see the most popular payment method by region
 - Created pivot table of Sales by Region to find which are the most popular product categories in each region
 
-## Resources
-- SQL3Lite for accesing and exploring the database
+## Resources Used
+- SQLite3 module for creating, accesing and exploring the database
 - Python 3.7
 - Numpy and Pandas libraries for data manipulation
 - Matplotlib and Seaborn libraries for data visualization
-
-The project is primarily based in Python and some SQLite3. 
-
-It uses Numpy and Pandas libraries for data manipulation, SQLite3 for accesing the database and Matplotlib and Seaborn for visualizations.
 
 ## Dataset
 The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data). Each entry contains information about a single transaction:
@@ -30,4 +26,21 @@ The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datas
 - Total Revenue: Total revenue generated from the sales transaction (Quantity * Unit Price).
 - Region: Geographic region where the transaction occurred (e.g., North America, Europe, Asia).
 - Payment Method: Method used for payment (e.g., Credit Card, PayPal, Debit Card).
+
+## Data Preparation
+
+- Retrieve data from the SQLite database into a Pandas data frame
+- Convert Date to datetime
+- Made a new column for Month
+      - Aggregate Total Revenue by:
+      - Date to see the overall sales trend for the entire period
+      - Month to obtain the seasonal monthly trend on sales
+      - Product Category to find the product categories with the highest sales
+      - Region to see which region has the highest sales
+- Payment Methods and Region to obtain the distribution of payment methods by region
+- Created a pivot table of monthly sales for each product category to analyze the seasonal patterns of different product categories
+- Created a pivot table of sales by product categories and region to find which is the most popular payment method by region
+
+
+## Exploratory Analysis
 
