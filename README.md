@@ -61,14 +61,14 @@ The **monthly trend** shows a decline in sales in January, followed by a good in
 <br/>
 
 
-The plot of the **pivot table of monthly sales for each product category** show that **Electronics** sales reached a peak in April and **Home Appliances** in March. **Sports** sales reached the highest values in February, then again in April. They all decreased until August. The sales for **Clothing**, **Books** and **Beauty Products** remained almost constant for all the months.
+The plot of the pivot table of **monthly sales for each product category** show that **Electronics** sales reached a peak in April and **Home Appliances** in March. Sports sales reached the highest values in February, then again in April. They all decreased until August. The sales for Clothing, Books** and Beauty Products remained almost constant for all the months.
 
 ![Monthly Sales Products](da1_monthly_prod.png)
 <br/>
 
 ### Which product categories have the highest sales?
 
-The **highest sales** come from **Electronics**, followed by **Home Appliances** and **Sports**, while **Clothing**, **Beauty Products**, and **Books** make up for **smaller proportions**.
+The **highest sales** come from **Electronics**, followed by Home Appliances and Sports, while Clothing, Beauty Products, and Books make up for smaller proportions.
 
 ![Top Products](da1_top_prod.png)
 <br/>
@@ -79,14 +79,14 @@ The **highest sales** come from **Electronics**, followed by **Home Appliances**
 ![Top Units](da1_top_units.png)
 <br/>
  
- The **top** number of **Units Sold** are for **Clothing**, followed by **Sports**. A smaller number of units sold are for Home Appliances and Electronics.
+ The **top** number of **Units Sold** are for **Clothing**, followed by Sports. A smaller number of units sold are for Home Appliances and Electronics.
 <br/>
 
 
 ### Which product categories are most popular in each region?
 
-The **heatmap** below shows that the **highest sales volume** comes from **Electronics** in **North America**, followed by **Home Appliances** in **Europe** and
-**Sports** in **Asia**. Other popular products are **Clothing** in **Asia**, **Beauty Products** in **Europe** and **Books** in **North America**.
+The heatmap below shows that the **highest sales volume** comes from **Electronics** in **North America**, followed by **Home Appliances** in **Europe** and
+**Sports** in **Asia**. Other popular products are Clothing in Asia, Beauty Products in Europe and Books in North America.
 
 ![Products by Region](da1_heatmap.png)
 <br/>
@@ -94,13 +94,13 @@ The **heatmap** below shows that the **highest sales volume** comes from **Elect
 
 ### What is the distribution of Payment Methods?
 
-It can be observed that the **highest revenue** comes from using **Credit Cards (50%)**, followed by **PayPal(33.3%)** and **Debit Card (16.7%)
+It can be observed that the **highest revenue** comes from using **Credit Cards (50%)**, followed by **PayPal(33.3%)** and Debit Card (16.7%)
 
 ![Payment Methods](da1_pay_method.png)
 <br/>
 
 
-The **most used payment method** in **North America** is **Credit Card**, followed by **Europe** where is **mostly** used **PayPal**. **Asia** is the only region where are used **two payment methods, Credit and Debit Cards**.
+The **most used payment method** in **North America** is **Credit Card**, followed by **Europe** where is mostly used **PayPal**. Asia is the only region where are used two payment methods, Credit and Debit Cards.
 
 ![Payment by Region](da1_pay_region.png)
 <br/>
