@@ -29,15 +29,14 @@ The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datas
 
 ## Data Preparation
 
-- Retrieve data from the SQLite database into a Pandas data frame
-- Convert Date to datetime
-- Made a new column for Month
+-  Retrieve data from the SQLite database into a Pandas data frame
+-  Convert Date to datetime
+-  Made a new column for Month
 - Aggregate Total Revenue by:
-  
-      - Date to see the overall sales trend for the entire period
-      - Month to obtain the seasonal monthly trend on sales
-      - Product Category to find the product categories with the highest sales
-      - Region to see which region has the highest sales
+     - Date to see the overall sales trend for the entire period
+     - Month to obtain the seasonal monthly trend on sales
+     - Product Category to find the product categories with the highest sales
+     - Region to see which region has the highest sales
 - Payment Methods and Region to obtain the distribution of payment methods by region
 - Created a pivot table of monthly sales for each product category to analyze the seasonal patterns of different product categories
 - Created a pivot table of sales by product categories and region to find which is the most popular payment method by region
