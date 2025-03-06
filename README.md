@@ -28,10 +28,10 @@ The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datas
 - Payment Method: Method used for payment (e.g., Credit Card, PayPal, Debit Card).
 
 ## Data Preparation
-I processed data by using pivot tables and grouping the sales by various attributes to get additional insights. The steps that I followed are:
+I followed the next steps for creating new variables and aggregating data:
 
--  Explore the SQLite database looking at each row of the table where it's displayed the column name, data type, and constraints of the data
--  Retrieve data from the SQLite database into a Pandas data frame
+-  Retrieve data from the SQLite database into a Pandas dataframe
+-  Check for missing values and duplicate rows
 -  Convert Date to datetime
 -  Made a new column for Month
 -  Created a pivot table of monthly sales for each product category to analyze the seasonal patterns of different product categories
@@ -48,3 +48,49 @@ I processed data by using pivot tables and grouping the sales by various attribu
 I used data visualizations to answer the following questions:
 
 **What are the monthly sales?**
+
+The **overall sales trend** fluctuated over the entire time span from January to August 2024, reaching the highest point in April. 
+
+
+
+The **monthly trend** shows a decline in sales in January, followed by a good increase between February and April. Then, it continues to decrease to the lowest point in July then start to pick up again in August.
+
+
+
+The plot of the **pivot table of monthly sales for each product category** show that **Electronics** sales reached a peak in April and **Home Appliances** in March. **Sports** sales reached the highest values in February, then again in April. They all decreased until August. The sales for **Clothing**, **Books** and **Beauty Products** remained almost constant for all the months.
+
+
+
+**Which product categories have the highest sales?**
+
+The **highest sales** come from **Electronics**, followed by **Home Appliances** and **Sports**, while **Clothing**, **Beauty Products**, and **Books** make up for **smaller proportions**.
+
+
+
+ We are also interested to see which are the **top Units Sold by Product Category**.
+
+
+ 
+ The **top** number of **Units Sold** are for **Clothing**, followed by **Sports**. A smaller number of units sold are for Home Appliances and Electronics.
+
+
+
+**Which product categories are most popular in each region?**
+
+The **heatmap** below shows that the **highest sales volume** comes from **Electronics** in **North America**, followed by **Home Appliances** in **Europe** and
+**Sports** in **Asia**. Other popular products are **Clothing** in **Asia**, **Beauty Products** in **Europe** and **Books** in **North America**.
+
+
+**What is the distribution of Payment Methods?**
+
+It can be observed that the **highest revenue** comes from using **Credit Cards (50%)**, followed by **PayPal(33.3%)** and **Debit Card (16.7%)
+
+
+
+The **most used payment method** in **North America** is **Credit Card**, followed by **Europe** where is **mostly** used **PayPal**. **Asia** is the only region where are used **two payment methods, Credit and Debit Cards**.
+
+
+
+
+
+
