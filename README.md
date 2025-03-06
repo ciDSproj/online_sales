@@ -28,7 +28,9 @@ The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datas
 - Payment Method: Method used for payment (e.g., Credit Card, PayPal, Debit Card).
 
 ## Data Preparation
+I processed data by using pivot tables and grouping the sales by various attributes to get additional insights. 
 
+-  Explore the SQLite database looking at each row of the table where it's displayed the column name, data type, and constraints of the data
 -  Retrieve data from the SQLite database into a Pandas data frame
 -  Convert Date to datetime
 -  Made a new column for Month
@@ -43,4 +45,6 @@ The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datas
 
 
 ## Exploratory Analysis
+I used data visualizations to answer the following questions:
 
+**What are the monthly sales?**
