@@ -51,15 +51,20 @@ I used data visualizations to answer the following questions:
 
 The **overall sales trend** fluctuated over the entire time span from January to August 2024, reaching the highest point in April. 
 
+![Overall Sales Trend](da1_overall_sales.png)
+<br/>
 
 
 The **monthly trend** shows a decline in sales in January, followed by a good increase between February and April. Then, it continues to decrease to the lowest point in July then start to pick up again in August.
 
+![Monthly Sales](da1_monthly_sales.png)
+<br/>
 
 
 The plot of the **pivot table of monthly sales for each product category** show that **Electronics** sales reached a peak in April and **Home Appliances** in March. **Sports** sales reached the highest values in February, then again in April. They all decreased until August. The sales for **Clothing**, **Books** and **Beauty Products** remained almost constant for all the months.
 
-
+![Monthly Sales Products](da1_monthly_prod.png)
+<br/>
 
 **Which product categories have the highest sales?**
 
