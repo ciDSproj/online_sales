@@ -94,13 +94,11 @@ The heatmap below shows that the **highest sales volume** comes from **Electroni
 
 ### What is the distribution of Payment Methods?
 
-It can be observed that the **highest revenue** comes from using **Credit Cards (50%)**, followed by **PayPal(33.3%)** and Debit Card (16.7%)
+The **highest revenue** comes from using **Credit Cards (50%)**, followed by **PayPal(33.3%)** and Debit Card (16.7%). The **most used payment method** in **North America** is **Credit Card**, followed by **Europe** where is mostly used **PayPal**. Asia is the only region where are used two payment methods, Credit and Debit Cards.
 
 ![Payment Methods](da1_pay_method.png)
 <br/>
 
-
-The **most used payment method** in **North America** is **Credit Card**, followed by **Europe** where is mostly used **PayPal**. Asia is the only region where are used two payment methods, Credit and Debit Cards.
 
 ![Payment by Region](da1_pay_region.png)
 <br/>
