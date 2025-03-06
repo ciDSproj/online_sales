@@ -3,10 +3,10 @@ The goal of this project is the analysis of the global online sales transactions
 
 ## Overview
 - Explored the SQLite database and retrieved data in a Pandas dataframe
-- Aggregated Sales by Date and Month to evaluate the overall and seasonal monthly trends
-- Created pivot table of monthly Sales by Product Category to explore the seasonal patterns of different products
-- Grouped Sales by Payment Methods to see the most popular payment method by region
-- Created pivot table of Sales by Region to find which are the most popular product categories in each region
+- Aggregated Sales by Date and Month and visualized the overall and seasonal monthly trends
+- Created plot of the pivot table of monthly Sales by Product Category to explore the seasonal patterns of different products
+- Grouped Sales by Payment Methods and visualized the distribution of payment methods by region
+- Made pivot table of Sales by Region and plotted a heatmap to find which are the most popular product categories in each region
 
 ## Resources Used
 - SQLite3 module for creating, accesing and exploring the database
