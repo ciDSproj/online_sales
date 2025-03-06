@@ -47,7 +47,7 @@ I followed the next steps for creating new variables and aggregating data:
 ## Exploratory Analysis
 I used data visualizations to answer the following questions:
 
-**What are the monthly sales?**
+### What are the monthly sales?
 
 The **overall sales trend** fluctuated over the entire time span from January to August 2024, reaching the highest point in April. 
 
@@ -66,7 +66,7 @@ The plot of the **pivot table of monthly sales for each product category** show 
 ![Monthly Sales Products](da1_monthly_prod.png)
 <br/>
 
-**Which product categories have the highest sales?**
+### Which product categories have the highest sales?
 
 The **highest sales** come from **Electronics**, followed by **Home Appliances** and **Sports**, while **Clothing**, **Beauty Products**, and **Books** make up for **smaller proportions**.
 
@@ -80,13 +80,13 @@ The **highest sales** come from **Electronics**, followed by **Home Appliances**
 
 
 
-**Which product categories are most popular in each region?**
+### Which product categories are most popular in each region?
 
 The **heatmap** below shows that the **highest sales volume** comes from **Electronics** in **North America**, followed by **Home Appliances** in **Europe** and
 **Sports** in **Asia**. Other popular products are **Clothing** in **Asia**, **Beauty Products** in **Europe** and **Books** in **North America**.
 
 
-**What is the distribution of Payment Methods?**
+### What is the distribution of Payment Methods?
 
 It can be observed that the **highest revenue** comes from using **Credit Cards (50%)**, followed by **PayPal(33.3%)** and **Debit Card (16.7%)
 
