@@ -36,11 +36,11 @@ I followed the next steps for creating new variables and aggregating data:
 -  Made a new column for Month
 -  Created a pivot table of monthly sales for each product category
 - Aggregate Total Revenue by:
-     - Date to see the overall sales trend
-     - Month to obtain the seasonal monthly trend
+     - Date
+     - Month
      - Product Category
      - Region
-     - Payment Methods and Region to obtain the distribution of payment methods by region
+     - Payment Methods and Region
 - Created a pivot table of sales by product categories and region
 
 
@@ -66,6 +66,7 @@ The plot of the pivot table of **monthly sales for each product category** show 
 ![Monthly Sales Products](da1_monthly_prod.png)
 <br/>
 
+
 ### Which product categories have the highest sales?
 
 The **highest sales** come from **Electronics**, followed by Home Appliances and Sports, while Clothing, Beauty Products, and Books make up for smaller proportions.
@@ -74,18 +75,15 @@ The **highest sales** come from **Electronics**, followed by Home Appliances and
 <br/>
 
 
- We are also interested to see which are the **top Units Sold by Product Category**.
+ Looking at the Units Sold, we see that the **top** number of **Units Sold** are for **Clothing**, followed by Sports. A smaller number of units sold are for Home Appliances and Electronics.
 
 ![Top Units](da1_top_units.png)
 <br/>
  
- The **top** number of **Units Sold** are for **Clothing**, followed by Sports. A smaller number of units sold are for Home Appliances and Electronics.
-<br/>
-
-
+ 
 ### Which product categories are most popular in each region?
 
-The heatmap below shows that the **highest sales volume** comes from **Electronics** in **North America**, followed by **Home Appliances** in **Europe** and
+The **highest sales volume** comes from **Electronics** in **North America**, followed by **Home Appliances** in **Europe** and
 **Sports** in **Asia**. Other popular products are Clothing in Asia, Beauty Products in Europe and Books in North America.
 
 ![Products by Region](da1_heatmap.png)
