@@ -17,15 +17,15 @@ The goal of this project is the analysis of the global online sales transactions
 ## Dataset
 The Online Sales dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data). The dataset contains 240 observations and 9 attributes. Each entry contains information about a single transaction:
 
-- Transaction ID: Unique identifier for each sales order.
-- Date: Date of the sales transaction.
-- Product Category: Broad category of the product sold (e.g., Electronics, Home Appliances etc.).
-- Product Name: Specific name or model of the product sold.
-- Units Sold: Number of units of the product sold in the transaction.
-- Unit Price: Price of one unit of the product.
-- Total Revenue: Total revenue generated from the sales transaction (Quantity * Unit Price).
-- Region: Geographic region where the transaction occurred (e.g., North America, Europe, Asia).
-- Payment Method: Method used for payment (e.g., Credit Card, PayPal, Debit Card).
+- **Transaction ID**: Unique identifier for each sales order.
+- **Date**: Date of the sales transaction.
+- **Product Category**: Broad category of the product sold (e.g., Electronics, Home Appliances etc.).
+- **Product Name**: Specific name or model of the product sold.
+- **Units Sold**: Number of units of the product sold in the transaction.
+- **Unit Price**: Price of one unit of the product.
+- **Total Revenue**: Total revenue generated from the sales transaction (Quantity * Unit Price).
+- **Region**: Geographic region where the transaction occurred (e.g., North America, Europe, Asia).
+- **Payment Method**: Method used for payment (e.g., Credit Card, PayPal, Debit Card).
 
 ## Data Preparation
 I followed the next steps for creating new variables and aggregating data:
