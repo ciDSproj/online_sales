@@ -1,4 +1,4 @@
-# Online Sales
+# Credit Risk Analysis 
 The goal of this project is the analysis of the global online sales transactions across various products between January and August 2024. The project covers retrieving data from a database, data manipulation, visualizations and answering business questions.
 
 ## Overview
